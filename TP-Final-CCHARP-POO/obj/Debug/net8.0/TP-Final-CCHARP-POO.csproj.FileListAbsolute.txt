@@ -12,3 +12,4 @@ C:\Users\Usuario\source\repos\TP-Final-CCHARP-POO\TP-Final-CCHARP-POO\obj\Debug\
 C:\Users\Usuario\source\repos\TP-Final-CCHARP-POO\TP-Final-CCHARP-POO\obj\Debug\net8.0\TP-Final-CCHARP-POO.pdb
 C:\Users\Usuario\source\repos\TP-Final-CCHARP-POO\TP-Final-CCHARP-POO\obj\Debug\net8.0\TP-Final-CCHARP-POO.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\TP-Final-CCHARP-POO\TP-Final-CCHARP-POO\obj\Debug\net8.0\ref\TP-Final-CCHARP-POO.dll
+C:\Users\Usuario\source\repos\TP-Final-CCHARP-POO\TP-Final-CCHARP-POO\obj\Debug\net8.0\TP-Final-CCHARP-POO.sourcelink.json

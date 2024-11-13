@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-Final-CCHARP-POO", "TP-Final-CCHARP-POO\TP-Final-CCHARP-POO.csproj", "{E1FCE717-DC4D-4974-AEA7-FF7991561A47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP-Final-CCHARP-POO", "TP-Final-CCHARP-POO\TP-Final-CCHARP-POO.csproj", "{E1FCE717-DC4D-4974-AEA7-FF7991561A47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{C48223A0-D2CA-45C7-8D8D-BD44EFE3EE56}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

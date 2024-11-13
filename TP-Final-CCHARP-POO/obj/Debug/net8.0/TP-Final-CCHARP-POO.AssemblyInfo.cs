@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-Final-CCHARP-POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b5eff6ed95b6676f458b0a09b8f63ef383da795")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-Final-CCHARP-POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-Final-CCHARP-POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
